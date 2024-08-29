@@ -1,0 +1,14 @@
+c:\Users\nutc2504\Desktop\2504lab_教學用檔\ASP.NET\C#\CshapeExample\bin\Debug\net8.0\CshapeExample.exe
+c:\Users\nutc2504\Desktop\2504lab_教學用檔\ASP.NET\C#\CshapeExample\bin\Debug\net8.0\CshapeExample.deps.json
+c:\Users\nutc2504\Desktop\2504lab_教學用檔\ASP.NET\C#\CshapeExample\bin\Debug\net8.0\CshapeExample.runtimeconfig.json
+c:\Users\nutc2504\Desktop\2504lab_教學用檔\ASP.NET\C#\CshapeExample\bin\Debug\net8.0\CshapeExample.dll
+c:\Users\nutc2504\Desktop\2504lab_教學用檔\ASP.NET\C#\CshapeExample\bin\Debug\net8.0\CshapeExample.pdb
+c:\Users\nutc2504\Desktop\2504lab_教學用檔\ASP.NET\C#\CshapeExample\obj\Debug\net8.0\CshapeExample.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\nutc2504\Desktop\2504lab_教學用檔\ASP.NET\C#\CshapeExample\obj\Debug\net8.0\CshapeExample.AssemblyInfoInputs.cache
+c:\Users\nutc2504\Desktop\2504lab_教學用檔\ASP.NET\C#\CshapeExample\obj\Debug\net8.0\CshapeExample.AssemblyInfo.cs
+c:\Users\nutc2504\Desktop\2504lab_教學用檔\ASP.NET\C#\CshapeExample\obj\Debug\net8.0\CshapeExample.csproj.CoreCompileInputs.cache
+c:\Users\nutc2504\Desktop\2504lab_教學用檔\ASP.NET\C#\CshapeExample\obj\Debug\net8.0\CshapeExample.dll
+c:\Users\nutc2504\Desktop\2504lab_教學用檔\ASP.NET\C#\CshapeExample\obj\Debug\net8.0\refint\CshapeExample.dll
+c:\Users\nutc2504\Desktop\2504lab_教學用檔\ASP.NET\C#\CshapeExample\obj\Debug\net8.0\CshapeExample.pdb
+c:\Users\nutc2504\Desktop\2504lab_教學用檔\ASP.NET\C#\CshapeExample\obj\Debug\net8.0\CshapeExample.genruntimeconfig.cache
+c:\Users\nutc2504\Desktop\2504lab_教學用檔\ASP.NET\C#\CshapeExample\obj\Debug\net8.0\ref\CshapeExample.dll

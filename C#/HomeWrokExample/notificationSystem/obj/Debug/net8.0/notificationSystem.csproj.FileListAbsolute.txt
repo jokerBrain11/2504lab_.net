@@ -1,0 +1,14 @@
+d:\.NET\notificationSystem\bin\Debug\net8.0\notificationSystem.exe
+d:\.NET\notificationSystem\bin\Debug\net8.0\notificationSystem.deps.json
+d:\.NET\notificationSystem\bin\Debug\net8.0\notificationSystem.runtimeconfig.json
+d:\.NET\notificationSystem\bin\Debug\net8.0\notificationSystem.dll
+d:\.NET\notificationSystem\bin\Debug\net8.0\notificationSystem.pdb
+d:\.NET\notificationSystem\obj\Debug\net8.0\notificationSystem.GeneratedMSBuildEditorConfig.editorconfig
+d:\.NET\notificationSystem\obj\Debug\net8.0\notificationSystem.AssemblyInfoInputs.cache
+d:\.NET\notificationSystem\obj\Debug\net8.0\notificationSystem.AssemblyInfo.cs
+d:\.NET\notificationSystem\obj\Debug\net8.0\notificationSystem.csproj.CoreCompileInputs.cache
+d:\.NET\notificationSystem\obj\Debug\net8.0\notificationSystem.dll
+d:\.NET\notificationSystem\obj\Debug\net8.0\refint\notificationSystem.dll
+d:\.NET\notificationSystem\obj\Debug\net8.0\notificationSystem.pdb
+d:\.NET\notificationSystem\obj\Debug\net8.0\notificationSystem.genruntimeconfig.cache
+d:\.NET\notificationSystem\obj\Debug\net8.0\ref\notificationSystem.dll

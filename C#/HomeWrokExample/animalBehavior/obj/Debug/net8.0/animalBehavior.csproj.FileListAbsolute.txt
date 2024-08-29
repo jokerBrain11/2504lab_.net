@@ -1,0 +1,14 @@
+d:\.NET\animalBehavior\bin\Debug\net8.0\animalBehavior.exe
+d:\.NET\animalBehavior\bin\Debug\net8.0\animalBehavior.deps.json
+d:\.NET\animalBehavior\bin\Debug\net8.0\animalBehavior.runtimeconfig.json
+d:\.NET\animalBehavior\bin\Debug\net8.0\animalBehavior.dll
+d:\.NET\animalBehavior\bin\Debug\net8.0\animalBehavior.pdb
+d:\.NET\animalBehavior\obj\Debug\net8.0\animalBehavior.GeneratedMSBuildEditorConfig.editorconfig
+d:\.NET\animalBehavior\obj\Debug\net8.0\animalBehavior.AssemblyInfoInputs.cache
+d:\.NET\animalBehavior\obj\Debug\net8.0\animalBehavior.AssemblyInfo.cs
+d:\.NET\animalBehavior\obj\Debug\net8.0\animalBehavior.csproj.CoreCompileInputs.cache
+d:\.NET\animalBehavior\obj\Debug\net8.0\animalBehavior.dll
+d:\.NET\animalBehavior\obj\Debug\net8.0\refint\animalBehavior.dll
+d:\.NET\animalBehavior\obj\Debug\net8.0\animalBehavior.pdb
+d:\.NET\animalBehavior\obj\Debug\net8.0\animalBehavior.genruntimeconfig.cache
+d:\.NET\animalBehavior\obj\Debug\net8.0\ref\animalBehavior.dll
