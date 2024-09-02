@@ -1,5 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 
+namespace Identity.DTOs;
+
 public class LoginRequestDto
 {
     [Required]

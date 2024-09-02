@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nutc2504\\Desktop\\Identity\\Identity.csproj": {}
+    "D:\\2504lab_教學用檔\\.NET\\ASP.NET\\Identity\\Identity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nutc2504\\Desktop\\Identity\\Identity.csproj": {
+    "D:\\2504lab_教學用檔\\.NET\\ASP.NET\\Identity\\Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nutc2504\\Desktop\\Identity\\Identity.csproj",
+        "projectUniqueName": "D:\\2504lab_教學用檔\\.NET\\ASP.NET\\Identity\\Identity.csproj",
         "projectName": "Identity",
-        "projectPath": "C:\\Users\\nutc2504\\Desktop\\Identity\\Identity.csproj",
+        "projectPath": "D:\\2504lab_教學用檔\\.NET\\ASP.NET\\Identity\\Identity.csproj",
         "packagesPath": "C:\\Users\\nutc2504\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nutc2504\\Desktop\\Identity\\obj\\",
+        "outputPath": "D:\\2504lab_教學用檔\\.NET\\ASP.NET\\Identity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nutc2504\\AppData\\Roaming\\NuGet\\NuGet.Config",

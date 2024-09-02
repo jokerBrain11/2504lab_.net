@@ -1,12 +1,14 @@
 using Microsoft.EntityFrameworkCore;
-using Identity.Data;
 using Microsoft.AspNetCore.Identity;
-using Identity.Models;
 using Microsoft.AspNetCore.Identity.UI.Services;
-using Identity.Helpers;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+
+using Identity.Models;
+using Identity.Helpers;
+using Identity.Data;
+using Identity.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,11 +20,11 @@ builder.Services.AddControllers();
 // 註冊 EmailHelper 服務為 IEmailSender 的單例
 builder.Services.AddSingleton<IEmailSender, EmailHepler>();
 
-// 註冊 IUserHelper 服務為 UserHelper 的作用域服務
-builder.Services.AddScoped<IUserHelper, UserHelper>();
-
 // 註冊 IJWTHelper 服務為 JWTHelper 的作用域服務
 builder.Services.AddScoped<IJWTHelper, JWTHelper>();
+
+// 註冊 IUserService 服務為 UserService 的作用域服務
+builder.Services.AddScoped<IUserService, UserService>();
 
 // 配置數據庫上下文，使用 SQL Server 和應用程式的連接字串
 builder.Services.AddDbContext<MyDBContext>(options =>
@@ -85,7 +87,7 @@ builder.Services
 // 配置授權策略
 builder.Services.AddAuthorization(options =>
 {
-    options.AddPolicy("RequireAdminManager", policy => policy.RequireRole("admin", "manager"));
+    options.AddPolicy("RequireAdminManager", policy => policy.RequireRole("admin", "manager1"));
     options.AddPolicy("RequireUser", policy => policy.RequireRole("user"));
 });
 
